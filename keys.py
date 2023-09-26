@@ -1,0 +1,1 @@
+BARD_KEY = "COOKIE_HERE"
